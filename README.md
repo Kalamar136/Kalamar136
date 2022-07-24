@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kalamar136
 - 👀 I’m interested in video games, understanding how electronic devices work, coding
 - 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on any exciting innovative project!
 - 📫 How to reach me:
   email: karlbridi@hotmail.com
 
