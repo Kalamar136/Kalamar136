@@ -46,7 +46,7 @@ Here are some of the projects I've worked on individually and in teams:
   <a href="mailto:karlbridi@hotmail.com" style="text-decoration: none; margin: 0 10px;">
     <img src="https://img.shields.io/badge/Email-karlbridi@hotmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-  <a href="[https://www.linkedin.com/in/ma-nadeau](https://www.linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/karl-bridi-software-engineering/)" style="text-decoration: none; margin: 0 10px;">
+  <a href="https://www.linkedin.com/in/karl-bridi-software-engineering/" style="text-decoration: none; margin: 0 10px;">
     <img src="https://img.shields.io/badge/LinkedIn-Karl Bridi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </div>
