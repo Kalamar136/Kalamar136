@@ -14,12 +14,12 @@ I'm a **Software Engineering student** with a passion for learning and exploring
   <img src="https://img.shields.io/badge/PostgreSQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
 </p>
 
-<h2 align="center">📊 GitHub Stats</h2>
-<div align="center">
+<!-- <h2 align="center">📊 GitHub Stats</h2>
+<div align="center"> -->
   <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kalamar136&layout=compact&theme=radical" alt="Top Languages" style="width: 70%; margin: 10px 0;" /> -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Kalamar136&show_icons=true&theme=radical" alt="Marc-Antoine's GitHub Stats" style="width: 60%; margin: 10px 0;" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=Kalamar136&show_icons=true&theme=radical" alt="Karl's GitHub Stats" style="width: 60%; margin: 10px 0;" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kalamar136&theme=radical" alt="GitHub Streak" style="width: 60%; margin: 10px 0;" />
-</div>
+</div> -->
 
 ## 🔥 Featured Repositories
 
