@@ -44,8 +44,9 @@ Deep learning classifier built with Keras and ResNet50 to classify waste into 12
 
 ---
 
-### 🏌️ Golf Robot (Forge McGill 2024)
-Hackathon project combining hardware and software engineering using Arduino, servo motors, joysticks, and custom control logic.
+### 🏆🏌️ Golf Robot (Forge McGill 2024 Hackathon Winner)
+
+Award-winning hackathon project that combined hardware and software engineering to build a remotely controlled golf-playing robot. Developed in a team of 4 using Arduino, servo motors, joysticks, custom control logic, and electromechanical components. The robot featured variable-power golf swings, omnidirectional movement, and strategic gameplay capabilities. This project won **1st Place at the Forge McGill 2024 Hardware Hackathon**.
 
 🔗 https://github.com/Kalamar136/Golf-Robot-Forge-McGill-2024
 
